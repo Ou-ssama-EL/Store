@@ -1,4 +1,4 @@
 # Store
-Store Template FRom The Game
+Store Template From The Game
 
-### Webiste link : https://ou-ssama-el.github.io/Store/
+#### Webiste link : https://ou-ssama-el.github.io/Store/
