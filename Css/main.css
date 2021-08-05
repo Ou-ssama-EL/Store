@@ -363,6 +363,11 @@ h2.prods-section-title {
     -o-border-radius: 30px;
 }
 
+@media (max-width: 767px) {
+    .prodiuts .container .produit-x:hover p::after {
+        left: 70px;
+    }
+}
 
 .prodiuts .container h5 {
     font-size: 12px;
